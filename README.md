@@ -2,7 +2,7 @@
 
 Enoncé
 
-Exercice 2
+# Exercice 2
 L’objectif de cet exercice est de voir comment vous traitez un jeu de données. Cet exercice se divise en trois parties :
 - La première phase consiste à nettoyer le jeu de données (traiter les valeurs manquantes ou extrêmes). Il n’y a pas une unique façon de faire ça, mais vous devez être capable de justifier vos choix.
 -  Le deuxième phase consiste à sortir quelques résultats du jeu de données :
